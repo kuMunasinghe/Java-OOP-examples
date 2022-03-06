@@ -1,5 +1,5 @@
 class Enu {
-    //
+    
     private String name;
 
     public String getName(){

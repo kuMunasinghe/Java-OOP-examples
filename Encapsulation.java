@@ -1,5 +1,5 @@
 class Encapsulation {
-    //
+    
     private String name;
 
     public String getName() {
