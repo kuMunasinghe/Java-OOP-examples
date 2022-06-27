@@ -10,7 +10,7 @@ abstract class Animal {
   
     // provide implementation of abstract method
     public void makeSound() {
-      System.out.println("Bahuuuuuuuuuuuuuuuuuuuuubahuuuuuuuu");
+      System.out.println("Bahu");
     }
   }
   
